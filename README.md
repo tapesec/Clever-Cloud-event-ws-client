@@ -15,8 +15,8 @@ API.session.getHMACAuthorization(
   Console.LoginAs.getTokens()
 );
 ```
-
-In deployment-listener, replace the exemple header line 4 by this new one :
+Et voilà ! you've got a new header.
+In deployment-listener, replace the exemple header line 4 by this new one.
 
 ```shell
 npm install
