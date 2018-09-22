@@ -1,0 +1,30 @@
+{
+  "name": "clever-cloud-event-ws-client",
+  "version": "1.0.0",
+  "description": "clever cloud events ws client",
+  "main": "deployment-listener.js",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapesec/Clever-Cloud-event-ws-client.git"
+  },
+  "keywords": [
+    "clever",
+    "cloud",
+    "deployment",
+    "events",
+    "api"
+  ],
+  "author": "lionnel DUPOUY @LionnelDupouy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapesec/Clever-Cloud-event-ws-client/issues"
+  },
+  "homepage": "https://github.com/tapesec/Clever-Cloud-event-ws-client#readme"
+}
